@@ -8,7 +8,7 @@ import com.vaadin.ui.UI;
 /**
  * Created by cjlyth on 12/10/16.
  */
-@SpringUI
+@SpringUI()
 public class IncidentInfo extends UI {
     @Override
     protected void init(VaadinRequest vaadinRequest) {
